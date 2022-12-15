@@ -1,11 +1,3 @@
 hello git!
 master branch
-b1 branch
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
-b1 branch 
 hello git!hello git!hello git!
